@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: plato-meta-tiles
+Version: 0.1.0
+Summary: Meta-tiles for PLATO — tiles about tiles, enabling higher-order reasoning
+Project-URL: Homepage, https://github.com/SuperInstance/plato-meta-tiles
+Requires-Python: >=3.10
+Requires-Dist: requests>=2.28

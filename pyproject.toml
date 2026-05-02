@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "plato-meta-tiles"
+version = "0.1.0"
+description = "Meta-tiles for PLATO — tiles about tiles, enabling higher-order reasoning"
+requires-python = ">=3.10"
+dependencies = ["requests>=2.28"]
+
+[project.urls]
+Homepage = "https://github.com/SuperInstance/plato-meta-tiles"

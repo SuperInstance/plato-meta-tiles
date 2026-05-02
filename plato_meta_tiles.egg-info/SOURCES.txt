@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+plato_meta/__init__.py
+plato_meta_tiles.egg-info/PKG-INFO
+plato_meta_tiles.egg-info/SOURCES.txt
+plato_meta_tiles.egg-info/dependency_links.txt
+plato_meta_tiles.egg-info/requires.txt
+plato_meta_tiles.egg-info/top_level.txt
+tests/test_meta.py
